@@ -64,6 +64,7 @@ body{
 .img{
     width: 100%;
     height: auto;
+    
 }
 .img1{
     margin-right: -390px;
@@ -128,11 +129,12 @@ span{
         max-width: 680px;
     }
  #nav{
-     width: 80%;
-     height: 200px;
+     width: 80vw;
+     height: 210px;
      background-color: white;
      position: absolute;
-     box-shadow: 3px 2px 5px 5px grey;
+     box-shadow: 3px 2px 5px grey;
+     border-radius: 5px;
      display: none;
      top: 100px;
      right: 0px;
